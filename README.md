@@ -1,6 +1,6 @@
-# Detecting Design Thinking Methods from WhiteboardImages using Image Recognition and Crowdsourcing
+# Bachelor Thesis: Detecting Design Thinking Methods from WhiteboardImages using Image Recognition and Crowdsourcing
 
-Code for Bachelor's Thesis will be uploaded here.  
+The repository contains code and trial results referenced in the above mentioned Bachelor's Thesis.  
 
 Notebooks with the code for each model that was trained are located in the respectively named directories.  
 
